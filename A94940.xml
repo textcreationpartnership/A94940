@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect narrative of the late dreadful famine in the great and populous city of Messina in the straits where vast multitudes of men, women, and children, have miserably perished in the streets, for want of food ... : with a description of the place, the occasions and manner of their revolting last summer from Spain, and putting themselves under the protection of the crown of France ... / extracted from several letters from Milan, Naples, and Palermo.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94940</idno>
+            <idno type="STC">Wing T2532B</idno>
+            <idno type="STC">ESTC R43786</idno>
+            <idno type="EEBO-CITATION">42475242</idno>
+            <idno type="OCLC">ocm 42475242</idno>
+            <idno type="VID">151401</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94940)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151401)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect narrative of the late dreadful famine in the great and populous city of Messina in the straits where vast multitudes of men, women, and children, have miserably perished in the streets, for want of food ... : with a description of the place, the occasions and manner of their revolting last summer from Spain, and putting themselves under the protection of the crown of France ... / extracted from several letters from Milan, Naples, and Palermo.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Famine --  Italy --  Messina --  Early works to 1800.</term>
+               <term>Messina (Italy)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151401:1"/>
+            <!-- PDF PAGE 25 -->
+            <p>A True and Perfect NARRATIVE Of the late Dreadful FAMINE In the great and populous City of <hi>MESSINA</hi> in the <hi>STRAITS,</hi> Where vaſt Multitudes of Men, Women, and Children, have Miſerably Periſhed in the Streets, for want of Food; and thoſe that Survived, were forced to go many Days without Bread, Feeding only on Horſes, Mules, Cats, Dogs, Leather, Hides, taken out of the Tan-fats, Vermine, <hi>&amp;c.</hi>
+            </p>
+            <p>WITH A Deſcription of the Place, the occaſions and manner of their Revolting laſt Summer from <hi>Spain,</hi> and putting themſelves under the Protection of the Crown of <hi>France,</hi> and a Journal of all Conſiderable Actions, per<g ref="char:EOLhyphen"/>formed there ſince their preſent troubles.</p>
+            <p>Extracted from ſeveral Letters, from <hi>Milan, Naples,</hi> and <hi>Palermo.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed 1674.</p>
+            <pb facs="tcp:151401:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <pb facs="tcp:151401:2"/>
+            <!-- PDF PAGE 26 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:151401:3"/>
+            <!-- PDF PAGE 27 -->
+            <pb n="1" facs="tcp:151401:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>An account of the Troubles and Terrible Famine at <hi>Meſſina.</hi>
+            </head>
+            <p>
+               <hi>MEſſina</hi> is an eminent City of <hi>Scicily,</hi> a great Iſland (Seven hundred Miles in Compaſs) which lies in the Mediterranean S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a, ſup<g ref="char:EOLhyphen"/>poſed to have formerly been joyned to <hi>Italy,</hi> and Divided by the fury of the Waves, the Fretum or narrow Sea between them being not above a Mile a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> half broad, in which, Charybdis a Gulf or Whirlp it being on the one ſide, and the Rock Scylla juſt op<g ref="char:EOLhyphen"/>poſite on the other, the dangerous paſſage for un<g ref="char:EOLhyphen"/>skilful Marriners, occaſion'd that their Proverb, whereby we ſay, when a man knows not which way to turn him, he is between <hi>Scylla</hi> and <hi>Carrybdis,</hi> In this Iſland <hi>Polyphemus</hi> and all the Cyclops dwelt, here is the Hill <hi>Hybla</hi> ſo famous for Bees and Ho<g ref="char:EOLhyphen"/>ney, here is Likwiſe the Hill <hi>Aetna</hi> (now called <hi>Mor<g ref="char:EOLhyphen"/>gibel</hi>) which continually Belches forth flames of Fire to the amazement of all beholders, and laſtly to this mathematick Learning is more beholding than to <hi>Athens, Rome</hi> or any other place, <hi>Euclyde</hi> and <hi>Ar<g ref="char:EOLhyphen"/>chimedes</hi> the two Pillars of that Art, being both born and flouriſhed here.</p>
+            <pb n="2" facs="tcp:151401:4"/>
+            <!-- PDF PAGE 28 -->
+            <p>The People are Ingenious, Eloquent and pleaſant, but withal wondrous Inconſtant, and no leſs talka<g ref="char:EOLhyphen"/>tive whence <hi>G<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rae ſiculae</hi> becomes Latine, for old wives Fables, they follow the Romiſh Religion, and uſe the Italian Language, but very much Impaired and fallen from its true Elegancy by reaſon of the Commixture of the Greek, Saracen, Norman, Spaniſh and French Tongues, the Soil is incredibly fruitful in Wine, Oyle, Hony, Sugar, <hi>&amp;c.</hi> ſuch abundance of all ſorts of Grain, that it was of old Counted the Granary of the whole Roman Empire, to which u<g ref="char:EOLhyphen"/>ſual plenty to which they were accuſtomed, muſt needs make the Pinchings of Famine ſo much the more ſenſibly reſented by the poor inhabitants at <hi>Meſſina</hi> During their late extremity of want.</p>
+            <p>About <hi>July</hi> la<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the People being lamentably afflict<g ref="char:EOLhyphen"/>ed and oppreſſed by great Taxes, Impoſitions, Gab<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls and Exciſe laid on all kind of Commodities, eſpecially on Meat and Drink and the neceſſary Proviſions of Life, and ſuffering ſeveral other Greivances, the the whole Iſland was filled with Murmurings and Complaints, but no place more than this <hi>Meſſina</hi> a very Large and Populous City, Scituate juſt op<g ref="char:EOLhyphen"/>poſite to <hi>Rhene</hi> in <hi>Italy</hi> whoſe Haven and Entrance are ſo ſtrongly ſconced and Bullwarked that they uſed Commonly to let their G<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s in deriſ<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the Turks, ſtand continually open <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the People here pretended at leaſt to have received <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> inſufferable abuſes and oppreſſions from their Governours <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at laſt occaſioned a General Mutiny and <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wherein they beſeiged their Strates <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ma<g ref="char:EOLhyphen"/>giſtrate
+<pb n="3" facs="tcp:151401:4"/>
+               <!-- PDF PAGE 28 -->in the P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lace Royal and on the third of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> 1674. <hi>S. N.</hi> having cauſed a Mine to be ſprung, by which a great part of the ſaid Palace was thrown to the Ground, and by other Means reduced him to the utmoſt Extremity, ſo that it was impoſſible for him longer to defend himſelf, he ſubmited to a Capitu<g ref="char:EOLhyphen"/>lation, and yeilded the place and retired to the Ca<g ref="char:EOLhyphen"/>ſtle of <hi>Salvadore,</hi> but not thinking himſelf ſafe there, he Embarked for <hi>Melaro</hi> to confer with the Mar<g ref="char:EOLhyphen"/>queſs of <hi>Bayon</hi> than Vice-roy of <hi>Scicily</hi> about re<g ref="char:EOLhyphen"/>ducing that City to its duty, whoſe inhabitants in the mean time, taking the ſupream power into their own hands, took from the ſeveral orders of the re<g ref="char:EOLhyphen"/>ligious within their precincts, all their Plate and Coyned it into mony, made incurſions into the ad<g ref="char:EOLhyphen"/>jacent Country, and brought all within 16 Leagues of their City under their juriſdiction, ſent ſeveral de<g ref="char:EOLhyphen"/>puties into Forraign parts to ſollicite ſuccours, and buy Powder and other Ammunition, and having an Implacable hatred againſt the Family of the <hi>Marly</hi> cauſed one Hundred and ſixty, Perſons of that Race to be executed, and amongſt them 3 Women who were beheaded, and a Gentleman of the Family of Poverde, in this exigence of affairs the Viceroy there, is likewiſe theſe of <hi>Naples</hi> and <hi>Milan</hi> uſed all diligence to raſſe Forces to, Reduce them to o<g ref="char:EOLhyphen"/>bedience.</p>
+            <p>The Pope was ſollicited to aid, the Crown of <hi>Spain,</hi> with his Gallies, but his holineſs avoided it with Complement, ſo alſo did the great Duke of <hi>Tuſcany,</hi> and the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>Venice,</hi> but the Republick of <hi>Genoa</hi>
+               <pb n="4" facs="tcp:151401:5"/>
+               <!-- PDF PAGE 29 -->ſeemed for a while inclinable to yeild aſſiſtance, as long as the Rebells pretended a Reſpect and alleigance to <hi>Spain</hi> and that their aim was only a redreſs of grie<g ref="char:EOLhyphen"/>vances and a reſtraint of the Inſolent Exorbitances of their Magiſtrates, but ſoon after, they had offered ſub<g ref="char:EOLhyphen"/>jection to the French King, and that he had taken them into his protection, that ſtate (fearing to diſoblige his moſt Chriſtian Majeſty who was but nowly reconcil<g ref="char:EOLhyphen"/>ed to them by the mediation of his Majeſty of great <hi>Brittain</hi>) recalled their Gallies home, however 2000. foot being ſent from <hi>Naples</hi> with other forces, the <hi>Vice-Roy</hi> endeavoured to block them up by land, who in the mean time had made themſelves Maſters of the Caſtle of <hi>Salvadore</hi> and ſeveral other ſtrong Forts, and grew more extravagant in their demands then before, relying much on the Succours that were ſent them from <hi>Marſeilles</hi> and <hi>Tholon,</hi> at laſt the Spaniſh Armada conſiſting of ſeveral Gallies and men of War, being got to ſea and lying before the mouth of their Haven and his Catholick Majeſties forces, on ſhore hin<g ref="char:EOLhyphen"/>dring all entercourſe ſo that no proviſion could be brought them by land, and they themſelves being very numerous, this City of <hi>Meſſina</hi> and its territo<g ref="char:EOLhyphen"/>ries being eſtimated to conteyn near one hundred thouſand Souls, all kind of food began to grow very ſcarce, having no ſtore houſes prepared before hand, which obliged them to ſend out great numbers of the more aged weak and pooreſt people to ſeeke their fortune amongſt their enemies; in this ſtrait things ſtood with them moſt part of this winter, and the Hardſhips they endured are almoſt inexpreſſible;
+<pb n="5" facs="tcp:151401:5"/>
+               <!-- PDF PAGE 29 -->'tis certain there is no enemy ſo terrible as the b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly unſatisfied, nor any torment like Famine, to ſee the meager looks of ſo many thouſand people half-fami<g ref="char:EOLhyphen"/>ſhed walking the ſtreets like ſo many ghoſts or fright<g ref="char:EOLhyphen"/>ful Apparitions, to hear the ſad cries and diſmal com<g ref="char:EOLhyphen"/>plaints of Men Women and Children ready to pe<g ref="char:EOLhyphen"/>riſh for want of Bread, muſt certainly be an object of pitty enough to affect the moſt obdurate heart; all kind of uſual meat was waſted, herbs and roots de<g ref="char:EOLhyphen"/>voured not out of a wanton delicacy as before, but for pure neceſſity. At laſt they fell to kill their Horſes and mules dreſſing their Dogs and Cooking their Cats, and thoſe nice Stomacks that within theſe Twel<g ref="char:EOLhyphen"/>ve-moneths were wont to ranſack the elements to gratify the Luxury of their inſatiate palates and ſcarce thought any thing that Earth or water or air could yeild, daintie enough to pleaſe their Appetite, could now with a ravenous delight feed on a peice of Car<g ref="char:EOLhyphen"/>rion, and eſteem a diſh of Rats and Mice a moſt re<g ref="char:EOLhyphen"/>liſhing repaſt, nay would have thought themſelves happy if they could but have had their Bellys full of ſuch Cheer. For by a ſevere order every man was ſtinted his Quantity how much he ſhould eat in a day, which it was death for him to exceed, to ſuch an ex<g ref="char:EOLhyphen"/>tremity of wants they were reduced that they Com<g ref="char:EOLhyphen"/>monly Eat leather, and Hydes, even after they had lain a long time in the tan fats, and even this wretch<g ref="char:EOLhyphen"/>ed fare was ſo ſcarce that there was not above an ounce and an half or two ounces at moſt afforded for a man or Woman for a whole day; In this deplorable eaſe they Continued a conſiderable time, having
+<pb n="6" facs="tcp:151401:6"/>
+               <!-- PDF PAGE 30 -->nothing to live upon but hope, which being it ſelf now grown almoſt helpleſs, was at laſt anſwered with releif: For on the 11th of <hi>February</hi> laſt paſt, The duke of <hi>Vivonne</hi> coming up with nine ſhips un<g ref="char:EOLhyphen"/>der his Command, within ſight of the <hi>Cape del Fare,</hi> deſigned to carry them proviſion, the Spaniſh <hi>Arma<g ref="char:EOLhyphen"/>da</hi> conſiſting of 20. men of war and 16. <hi>Gallies</hi> lying along the coſt of <hi>Calabria</hi> and being reſolved to hinder ſuch their deſigne weighed anchor, and fell upon the French with great fury, who notwithſtanding the diſ<g ref="char:EOLhyphen"/>advantage of number bravely defended themſelves till noon, at which time 5. more freſh men of war came into their Aſſiſtance, and in fine after a ſharp and ob<g ref="char:EOLhyphen"/>ſtinate diſpute, which Continued from Eight a clock in the morning till an hower after Sun ſet, the French having got the weather gage, the Spaniards thought fit to ſheer off, and ſtanding away towards <hi>Naples,</hi> leſt the French to proſecute their Voyage, who ſoon after Arrived at <hi>Meſſina</hi> with great quantities of Corn and other neceſſary Proviſions to the infinite Joy of the languiſhing Inhabitants.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:151401:6"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
